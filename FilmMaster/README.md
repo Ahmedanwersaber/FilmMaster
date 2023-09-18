@@ -1,8 +1,19 @@
-# Getting Started with Create React App
+# FilmMaster 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#  project React Js and Redux 
 
-## Available Scripts
+
+![Screenshot (148)](https://github.com/Ahmedanwersaber/FilmMaster/assets/99138670/b972946d-e0d8-45b1-b548-6af3b77aea4c)
+![Screenshot (149)](https://github.com/Ahmedanwersaber/FilmMaster/assets/99138670/4be69343-413b-4ab0-91dd-8b7f5c7aa606)
+![Screenshot (151)](https://github.com/Ahmedanwersaber/FilmMaster/assets/99138670/d486fff4-0ec5-4dc9-8154-8c8b1cc50d80)
+![Screenshot (150)](https://github.com/Ahmedanwersaber/FilmMaster/assets/99138670/69e82e95-e5a2-45e1-ae9a-79d2c82b42c9)
+
+
+## to open this project you shoud dounload node modules 
+
+## `npm install node_modules`
+
+## next step 
 
 In the project directory, you can run:
 
